@@ -1,0 +1,1 @@
+.\deploy.ps1 -deploymentName "dev-technicallychalleneged" -resourceGroupLocation "North Europe" -subscriptionId "788ae34c-7770-46e4-abd0-78e3c5dc98e5" -resourceGroupName "TechnicallyChalleneged-Dev" -templateFilePath ".\template.json" -parametersFilePath ".\parameters-dev.json"

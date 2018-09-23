@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "cosmos-name": {
+            "value": "technically-challeneged"
+        },
+        "af-serviceplan-name": {
+            "value": "NorthEuropePlan"
+        },
+        "af-site-name": {
+            "value": "functions-technicallychallenged"
+        },
+        "af-ai-name": {
+            "value": "functions-technicallychallenged"
+        },
+        "af-config-name": {
+            "value": "web"
+        },
+        "af-storageaccount-name": {
+            "value": "tcafstorage1"
+        },
+        "af-hostname": {
+            "value": "af-technicallychallenged.azurewebsites.net"
+        }
+    }
+}
